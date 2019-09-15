@@ -14,6 +14,6 @@
 >
 > **Lab 5 Grade:** 89/100
 >
-> **Final Project Grade:** 18/20 ([Color Shooter](proj/doc/Project_Report.pdf))
+> **Final Project Grade:** 18/20 ([Color Shooter](proj/doc/Project&#32;Report.pdf))
 
 **Disclaimer** - This repository was created for educational purposes and we do not take any responsibility for anything related to its content. You are free to use any code or algorithm you find, but do so at your own risk.
