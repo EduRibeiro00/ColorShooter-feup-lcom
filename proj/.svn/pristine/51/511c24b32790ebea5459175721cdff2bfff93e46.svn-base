@@ -1,8 +1,0 @@
-<map id="display_progress_bar" name="display_progress_bar">
-<area shape="rect" id="node2" href="$group__sprite.html#ga6c75fbf31230126d2f19b29deaf24b2f" title="Draws a sprite on the double buffer. " alt="" coords="199,81,287,108"/>
-<area shape="rect" id="node3" href="$group__video.html#ga8c06c38c592f3aedcd74ac2c4882ef75" title="Draws a pixmap on the double buffer, on the given coordinates (does not draw when the color is transp..." alt="" coords="335,81,453,108"/>
-<area shape="rect" id="node4" href="$group__video.html#gab226d056720011120b05e68e5f4d4449" title="Returns the vertical resolution in pixels. " alt="" coords="515,5,593,32"/>
-<area shape="rect" id="node5" href="$group__video.html#gac19350f0662b5c8fbb1a41e051411014" title="Returns the horizontal resolution in pixels. " alt="" coords="515,56,593,83"/>
-<area shape="rect" id="node6" href="$group__video.html#gaf330c22f78872c5ec05d2541e491f0a1" title="Returns the number of VRAM bytes per pixel. " alt="" coords="507,107,601,133"/>
-<area shape="rect" id="node7" href="$group__video.html#gac0b825f4162eb1ad853e58ddb6747e61" title="Function that colors in a pixel in the double buffer. " alt="" coords="501,157,607,184"/>
-</map>

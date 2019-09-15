@@ -1,7 +1,0 @@
-<map id="extract_date_and_hour" name="extract_date_and_hour">
-<area shape="rect" id="node2" href="$group__rtc.html#gaf6df282566c034c7a645dea2969745c0" title="Checks if the RTC is updating. " alt="" coords="208,5,307,32"/>
-<area shape="rect" id="node3" href="$group__rtc.html#gafeffa208f3d89fab9e401c534ef0a272" title="Extracts the day of the month, the month and the year from the RTC. " alt="" coords="221,107,293,133"/>
-<area shape="rect" id="node6" href="$group__rtc.html#gaea1b02849cff655d5e871e271bf44fd2" title="Extracts the current number of hours and minutes from the RTC. " alt="" coords="221,56,293,83"/>
-<area shape="rect" id="node4" href="$group__rtc.html#ga91994172a375afa5dfd71c7ee92e93a1" title="Checks if the RTC has its values in BCD or in binary. " alt="" coords="374,56,433,83"/>
-<area shape="rect" id="node5" href="$group__rtc.html#ga2ea58f6f938a54b2975aeccdac89236d" title="Receives a value in BCD format, and retrieves it in the binary format. " alt="" coords="355,107,452,133"/>
-</map>

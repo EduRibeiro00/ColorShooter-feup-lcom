@@ -1,6 +1,0 @@
-<map id="end_light_beam_ability" name="end_light_beam_ability">
-<area shape="rect" id="node2" href="$group___game.html#ga5019f2d4c9191323fe21c6328375d01d" title="Resets the bullets array, by deleting all the bullets. " alt="" coords="208,5,311,32"/>
-<area shape="rect" id="node4" href="$group___game.html#gad88db528c0ae444b7caeddc2f255395a" title="Creates a new bullet, and adds it to the bullets array. " alt="" coords="219,56,300,83"/>
-<area shape="rect" id="node3" href="$group___bullet.html#ga9ad4b197f5ba392e245907283e3425bf" title="Deletes a bullet object, freeing all the previously allocated space. " alt="" coords="359,5,454,32"/>
-<area shape="rect" id="node5" href="$group___bullet.html#ga5c7521825812fa87afdf65e47ae362b5" title="Creates a bullet object, with all the images associated with all the possible colored ammo (when crea..." alt="" coords="359,56,455,83"/>
-</map>

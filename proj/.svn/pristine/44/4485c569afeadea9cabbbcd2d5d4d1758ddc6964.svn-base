@@ -1,6 +1,0 @@
-<map id="animate_ships" name="animate_ships">
-<area shape="rect" id="node2" href="$group___enemy.html#ga6c909f17742e0e4cd25f64987ade8007" title="Changes the current pixmap of the enemy, in order to animate the spaceship. " alt="" coords="168,5,283,32"/>
-<area shape="rect" id="node3" href="$group___explosion.html#ga889d022a59c2d689cb8206349c91405e" title="Changes the current pixmap of the explosion, in order to animate it. " alt="" coords="160,56,291,83"/>
-<area shape="rect" id="node4" href="$group___ships.html#gaa9ba8fb44d18846a86c298e7369a1a84" title="Removes an explosion of the array (explosion is on the index position of the array) ..." alt="" coords="163,107,288,133"/>
-<area shape="rect" id="node5" href="$group___explosion.html#ga5a7edeec55c21fa5d39a531314c0bef1" title="Deletes an explosion, freeing all the memory previously allocated. " alt="" coords="339,107,457,133"/>
-</map>

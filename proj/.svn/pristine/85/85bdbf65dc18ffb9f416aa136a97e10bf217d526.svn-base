@@ -1,7 +1,0 @@
-<map id="launch_bullet_array" name="launch_bullet_array">
-<area shape="rect" id="node2" href="$group___bullet.html#gab1a5187f718d222af98fe16bb8e88184" title="Tells if the bullet was launched or not. " alt="" coords="223,5,321,32"/>
-<area shape="rect" id="node3" href="$group___bullet.html#ga0dbb8ad223b9165e15819d08f9b870b6" title="Launches a normal bullet, changing its speed, so that the bullet starts moving towards the aim..." alt="" coords="223,107,321,133"/>
-<area shape="rect" id="node6" href="$group___bullet.html#gad164329bb92fdfd75bef4207e6113136" title="Launches a light beam bullet (to be used when the light beam ability is activated) ..." alt="" coords="188,56,356,83"/>
-<area shape="rect" id="node4" href="$group__sprite.html#ga9675b13ce5794fe58dfb8d24697e4bd5" title="Returns the sprite&#39;s y coordinate. " alt="" coords="404,56,476,83"/>
-<area shape="rect" id="node5" href="$group__sprite.html#ga0003e9cae5ef78bada5981093282d832" title="Returns the sprite&#39;s x coordinate. " alt="" coords="404,107,476,133"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="vg_init" name="vg_init">
-<area shape="rect" id="node2" href="$group__video.html#gac850a7ff4f5b8b3a0da5d63b1347c3a4" title="Gets the vram physical address, and updates the static variables accordingly. " alt="" coords="121,5,222,32"/>
-<area shape="rect" id="node4" href="$group__video.html#gad10bda1ac2f69a1c7e0030069571f69c" title="Function that maps the vram physical memory into the process&#39;s virtual memory, given the information ..." alt="" coords="121,56,222,83"/>
-<area shape="rect" id="node5" href="$group__video.html#ga29eb7d78a09bc8be20444f3f18d6e3bc" title="Sets the desired graphical mode. " alt="" coords="112,107,231,133"/>
-<area shape="rect" id="node3" href="$group__video.html#gaa63b97893eb9b2a15f66e621e74bf043" title="Function that gets the information about the current graphical mode. " alt="" coords="279,5,449,32"/>
-</map>

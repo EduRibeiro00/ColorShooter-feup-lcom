@@ -1,6 +1,0 @@
-<map id="draw_pixmap" name="draw_pixmap">
-<area shape="rect" id="node2" href="$group__video.html#gab226d056720011120b05e68e5f4d4449" title="Returns the vertical resolution in pixels. " alt="" coords="160,5,237,32"/>
-<area shape="rect" id="node3" href="$group__video.html#gac19350f0662b5c8fbb1a41e051411014" title="Returns the horizontal resolution in pixels. " alt="" coords="159,56,238,83"/>
-<area shape="rect" id="node4" href="$group__video.html#gaf330c22f78872c5ec05d2541e491f0a1" title="Returns the number of VRAM bytes per pixel. " alt="" coords="152,107,245,133"/>
-<area shape="rect" id="node5" href="$group__video.html#gafa705001911d815ef1723ede0c467783" title="Function that just colors in a pixel, situated at the given coordinates. " alt="" coords="157,157,241,184"/>
-</map>

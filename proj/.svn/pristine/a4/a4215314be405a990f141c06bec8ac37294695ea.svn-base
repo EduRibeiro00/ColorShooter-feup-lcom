@@ -1,4 +1,0 @@
-<map id="player_lost" name="player_lost">
-<area shape="rect" id="node2" href="$group___enemy.html#ga4b4b69209f1d725d50b7bf68e2ad9967" title="Returns the enemy&#39;s y coordinate. " alt="" coords="153,5,253,32"/>
-<area shape="rect" id="node3" href="$group___enemy.html#ga90b59ef66fed846d84c8ce69f2bf6257" title="Returns the enemy&#39;s height. " alt="" coords="139,56,267,83"/>
-</map>

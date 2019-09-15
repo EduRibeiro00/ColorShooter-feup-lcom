@@ -1,3 +1,0 @@
-<map id="remove_explosion" name="remove_explosion">
-<area shape="rect" id="node2" href="$group___explosion.html#ga5a7edeec55c21fa5d39a531314c0bef1" title="Deletes an explosion, freeing all the memory previously allocated. " alt="" coords="179,5,297,32"/>
-</map>

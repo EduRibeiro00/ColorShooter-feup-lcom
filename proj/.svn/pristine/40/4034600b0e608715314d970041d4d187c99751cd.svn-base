@@ -1,9 +1,0 @@
-<map id="draw_ships" name="draw_ships">
-<area shape="rect" id="node2" href="$group___enemy.html#gab53669b3a7ce0b461f78777a4767de53" title="Draws an enemy on the double buffer, at the right coordinates. " alt="" coords="148,56,243,83"/>
-<area shape="rect" id="node8" href="$group___explosion.html#ga9c6488a786cf9212e6d70f18b4ee9bf1" title="Draws the current pixmap of the explosion on the double buffer, on the right coordinates. " alt="" coords="140,107,251,133"/>
-<area shape="rect" id="node3" href="$group__video.html#ga8c06c38c592f3aedcd74ac2c4882ef75" title="Draws a pixmap on the double buffer, on the given coordinates (does not draw when the color is transp..." alt="" coords="299,81,417,108"/>
-<area shape="rect" id="node4" href="$group__video.html#gab226d056720011120b05e68e5f4d4449" title="Returns the vertical resolution in pixels. " alt="" coords="479,5,557,32"/>
-<area shape="rect" id="node5" href="$group__video.html#gac19350f0662b5c8fbb1a41e051411014" title="Returns the horizontal resolution in pixels. " alt="" coords="479,56,557,83"/>
-<area shape="rect" id="node6" href="$group__video.html#gaf330c22f78872c5ec05d2541e491f0a1" title="Returns the number of VRAM bytes per pixel. " alt="" coords="471,107,565,133"/>
-<area shape="rect" id="node7" href="$group__video.html#gac0b825f4162eb1ad853e58ddb6747e61" title="Function that colors in a pixel in the double buffer. " alt="" coords="465,157,571,184"/>
-</map>

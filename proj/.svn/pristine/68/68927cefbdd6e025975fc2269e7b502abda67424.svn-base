@@ -1,4 +1,0 @@
-<map id="change_ammo_array" name="change_ammo_array">
-<area shape="rect" id="node2" href="$group___bullet.html#gab1a5187f718d222af98fe16bb8e88184" title="Tells if the bullet was launched or not. " alt="" coords="200,5,299,32"/>
-<area shape="rect" id="node3" href="$group___bullet.html#gaf1f907a724dca22539f98ac04eb72099" title="Changes the current ammo color, based off the key pressed. " alt="" coords="196,56,303,83"/>
-</map>

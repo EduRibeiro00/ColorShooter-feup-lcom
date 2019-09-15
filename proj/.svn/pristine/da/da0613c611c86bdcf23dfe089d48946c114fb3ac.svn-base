@@ -1,4 +1,0 @@
-<map id="launch_bullet" name="launch_bullet">
-<area shape="rect" id="node2" href="$group__sprite.html#ga9675b13ce5794fe58dfb8d24697e4bd5" title="Returns the sprite&#39;s y coordinate. " alt="" coords="152,5,224,32"/>
-<area shape="rect" id="node3" href="$group__sprite.html#ga0003e9cae5ef78bada5981093282d832" title="Returns the sprite&#39;s x coordinate. " alt="" coords="152,56,224,83"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="draw_bullets" name="draw_bullets">
-<area shape="rect" id="node2" href="$group___bullet.html#ga5bf4411e61ee107f8520c685532d0e08" title="Draws the bullet on the double buffer, based on the current ammo color and the current animation..." alt="" coords="148,81,235,108"/>
-<area shape="rect" id="node3" href="$group__video.html#ga8c06c38c592f3aedcd74ac2c4882ef75" title="Draws a pixmap on the double buffer, on the given coordinates (does not draw when the color is transp..." alt="" coords="283,81,401,108"/>
-<area shape="rect" id="node4" href="$group__video.html#gab226d056720011120b05e68e5f4d4449" title="Returns the vertical resolution in pixels. " alt="" coords="463,5,541,32"/>
-<area shape="rect" id="node5" href="$group__video.html#gac19350f0662b5c8fbb1a41e051411014" title="Returns the horizontal resolution in pixels. " alt="" coords="463,56,541,83"/>
-<area shape="rect" id="node6" href="$group__video.html#gaf330c22f78872c5ec05d2541e491f0a1" title="Returns the number of VRAM bytes per pixel. " alt="" coords="455,107,549,133"/>
-<area shape="rect" id="node7" href="$group__video.html#gac0b825f4162eb1ad853e58ddb6747e61" title="Function that colors in a pixel in the double buffer. " alt="" coords="449,157,555,184"/>
-</map>

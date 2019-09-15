@@ -1,4 +1,0 @@
-<map id="read_command_byte" name="read_command_byte">
-<area shape="rect" id="node2" href="$group__keyboard.html#ga5ca96afb5f587de11c9499895d13373a" title="Checks, via reading the status register, if it can issue a command; if it can, it issues it..." alt="" coords="196,5,313,32"/>
-<area shape="rect" id="node3" href="$group__keyboard.html#ga971c17fcc6d78ca930d6db28a3cd1e1f" title="Reads a return value from the KBC (used after issuing a command that asks for a return value) ..." alt="" coords="202,56,307,83"/>
-</map>

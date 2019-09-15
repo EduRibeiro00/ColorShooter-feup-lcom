@@ -1,8 +1,0 @@
-<map id="draw_moving_background" name="draw_moving_background">
-<area shape="rect" id="node2" href="$group__video.html#gab226d056720011120b05e68e5f4d4449" title="Returns the vertical resolution in pixels. " alt="" coords="235,5,313,32"/>
-<area shape="rect" id="node3" href="$group__sprite.html#ga5c9518c4710019b0d7c95e91009859dd" title="Returns the sprite&#39;s pixmap. " alt="" coords="229,56,319,83"/>
-<area shape="rect" id="node4" href="$group__video.html#gac19350f0662b5c8fbb1a41e051411014" title="Returns the horizontal resolution in pixels. " alt="" coords="235,107,313,133"/>
-<area shape="rect" id="node5" href="$group__video.html#gaf330c22f78872c5ec05d2541e491f0a1" title="Returns the number of VRAM bytes per pixel. " alt="" coords="227,157,321,184"/>
-<area shape="rect" id="node6" href="$group__video.html#gaec7619d90f6bc9b265d3def132eda095" title="Copies, using memcpy, a line to the double buffer. " alt="" coords="225,208,323,235"/>
-<area shape="rect" id="node7" href="$group__sprite.html#gaf492071a1beada7068123d621209ee15" title="Returns the sprite&#39;s height. " alt="" coords="224,259,324,285"/>
-</map>

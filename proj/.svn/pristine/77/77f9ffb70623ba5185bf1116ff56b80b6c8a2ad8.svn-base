@@ -1,4 +1,0 @@
-<map id="reset_ships" name="reset_ships">
-<area shape="rect" id="node2" href="$group___enemy.html#ga4e741efdb1d5eb212223215f0202e0e3" title="Deletes an enemy, freeing all the memory previously allocated. " alt="" coords="151,5,253,32"/>
-<area shape="rect" id="node3" href="$group___explosion.html#ga5a7edeec55c21fa5d39a531314c0bef1" title="Deletes an explosion, freeing all the memory previously allocated. " alt="" coords="143,56,261,83"/>
-</map>

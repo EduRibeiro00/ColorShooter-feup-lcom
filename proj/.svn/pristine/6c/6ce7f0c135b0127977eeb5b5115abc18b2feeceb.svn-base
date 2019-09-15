@@ -1,4 +1,0 @@
-<map id="write_command_byte" name="write_command_byte">
-<area shape="rect" id="node2" href="$group__keyboard.html#ga5ca96afb5f587de11c9499895d13373a" title="Checks, via reading the status register, if it can issue a command; if it can, it issues it..." alt="" coords="199,5,316,32"/>
-<area shape="rect" id="node3" href="$group__keyboard.html#ga20947404a9bcc23bea2ca366463344fa" title="Checks, via reading the status register, if it can issue an argument; if it can,it issues it..." alt="" coords="218,56,297,83"/>
-</map>

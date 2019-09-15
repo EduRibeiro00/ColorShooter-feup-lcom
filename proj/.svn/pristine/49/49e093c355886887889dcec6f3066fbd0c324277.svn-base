@@ -1,4 +1,0 @@
-<map id="handle_difficulty" name="handle_difficulty">
-<area shape="rect" id="node2" href="$group___game.html#ga90f75880fc3627a95338771a23a49204" title="Increases the difficulty of the game, making the enemies appear more frequently, and move faster..." alt="" coords="168,5,293,32"/>
-<area shape="rect" id="node3" href="$group___ships.html#ga1ae07a36ebd747e81e2e95a423f8d246" title="Adjusts the difficulty off the game, making the enemies spawn more frequently and move faster..." alt="" coords="341,5,452,32"/>
-</map>

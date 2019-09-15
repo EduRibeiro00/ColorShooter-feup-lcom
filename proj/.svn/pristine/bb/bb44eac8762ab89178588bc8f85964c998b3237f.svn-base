@@ -1,4 +1,0 @@
-<map id="get_hour" name="get_hour">
-<area shape="rect" id="node2" href="$group__rtc.html#ga91994172a375afa5dfd71c7ee92e93a1" title="Checks if the RTC has its values in BCD or in binary. " alt="" coords="145,5,203,32"/>
-<area shape="rect" id="node3" href="$group__rtc.html#ga2ea58f6f938a54b2975aeccdac89236d" title="Receives a value in BCD format, and retrieves it in the binary format. " alt="" coords="125,56,223,83"/>
-</map>

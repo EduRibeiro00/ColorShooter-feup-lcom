@@ -1,7 +1,0 @@
-<map id="use_light_beam_ability" name="use_light_beam_ability">
-<area shape="rect" id="node2" href="$group___bullet.html#gab1a5187f718d222af98fe16bb8e88184" title="Tells if the bullet was launched or not. " alt="" coords="209,5,308,32"/>
-<area shape="rect" id="node3" href="$group___game.html#ga43646f93b31065d132d3353e1c765b31" title="Removes a bullet from the array. " alt="" coords="208,56,309,83"/>
-<area shape="rect" id="node5" href="$group___game.html#gad88db528c0ae444b7caeddc2f255395a" title="Creates a new bullet, and adds it to the bullets array. " alt="" coords="218,107,299,133"/>
-<area shape="rect" id="node4" href="$group___bullet.html#ga9ad4b197f5ba392e245907283e3425bf" title="Deletes a bullet object, freeing all the previously allocated space. " alt="" coords="358,56,453,83"/>
-<area shape="rect" id="node6" href="$group___bullet.html#ga5c7521825812fa87afdf65e47ae362b5" title="Creates a bullet object, with all the images associated with all the possible colored ammo (when crea..." alt="" coords="357,107,453,133"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="keyboard_enable" name="keyboard_enable">
-<area shape="rect" id="node2" href="$group__keyboard.html#ga191978dc5f40a3532d099c211a059c6a" title="Reads the command byte. " alt="" coords="175,31,317,57"/>
-<area shape="rect" id="node5" href="$group__keyboard.html#gab93137324dbf429632060d75313911ee" title="Writes a command byte. " alt="" coords="173,81,319,108"/>
-<area shape="rect" id="node3" href="$group__keyboard.html#ga5ca96afb5f587de11c9499895d13373a" title="Checks, via reading the status register, if it can issue a command; if it can, it issues it..." alt="" coords="367,56,484,83"/>
-<area shape="rect" id="node4" href="$group__keyboard.html#ga971c17fcc6d78ca930d6db28a3cd1e1f" title="Reads a return value from the KBC (used after issuing a command that asks for a return value) ..." alt="" coords="373,5,478,32"/>
-<area shape="rect" id="node6" href="$group__keyboard.html#ga20947404a9bcc23bea2ca366463344fa" title="Checks, via reading the status register, if it can issue an argument; if it can,it issues it..." alt="" coords="386,107,465,133"/>
-</map>

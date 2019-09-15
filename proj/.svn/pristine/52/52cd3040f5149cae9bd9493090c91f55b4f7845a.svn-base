@@ -1,5 +1,0 @@
-<map id="issue_mouse_cmd" name="issue_mouse_cmd">
-<area shape="rect" id="node2" href="$group__keyboard.html#ga5ca96afb5f587de11c9499895d13373a" title="Checks, via reading the status register, if it can issue a command; if it can, it issues it..." alt="" coords="201,5,318,32"/>
-<area shape="rect" id="node3" href="$group__keyboard.html#ga20947404a9bcc23bea2ca366463344fa" title="Checks, via reading the status register, if it can issue an argument; if it can,it issues it..." alt="" coords="220,56,299,83"/>
-<area shape="rect" id="node4" href="$group__mouse.html#gad2232c90f304f99d0a64976f15a3007e" title="Reads a return value from the KBC; used if the information is coming from the mouse (used after issui..." alt="" coords="184,107,335,133"/>
-</map>

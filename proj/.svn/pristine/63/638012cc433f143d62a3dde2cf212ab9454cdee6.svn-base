@@ -1,3 +1,0 @@
-<map id="remove_ship" name="remove_ship">
-<area shape="rect" id="node2" href="$group___enemy.html#ga4e741efdb1d5eb212223215f0202e0e3" title="Deletes an enemy, freeing all the memory previously allocated. " alt="" coords="148,5,251,32"/>
-</map>

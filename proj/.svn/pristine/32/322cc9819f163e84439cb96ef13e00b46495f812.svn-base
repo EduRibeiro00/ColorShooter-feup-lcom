@@ -1,5 +1,0 @@
-<map id="erase_pixmap" name="erase_pixmap">
-<area shape="rect" id="node2" href="$group__video.html#gab226d056720011120b05e68e5f4d4449" title="Returns the vertical resolution in pixels. " alt="" coords="159,5,237,32"/>
-<area shape="rect" id="node3" href="$group__video.html#gac19350f0662b5c8fbb1a41e051411014" title="Returns the horizontal resolution in pixels. " alt="" coords="159,56,237,83"/>
-<area shape="rect" id="node4" href="$group__video.html#gafa705001911d815ef1723ede0c467783" title="Function that just colors in a pixel, situated at the given coordinates. " alt="" coords="156,107,240,133"/>
-</map>

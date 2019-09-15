@@ -1,4 +1,0 @@
-<map id="vg_draw_hline" name="vg_draw_hline">
-<area shape="rect" id="node2" href="$group__video.html#gac19350f0662b5c8fbb1a41e051411014" title="Returns the horizontal resolution in pixels. " alt="" coords="159,5,237,32"/>
-<area shape="rect" id="node3" href="$group__video.html#gafa705001911d815ef1723ede0c467783" title="Function that just colors in a pixel, situated at the given coordinates. " alt="" coords="156,56,240,83"/>
-</map>
